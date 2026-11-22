@@ -1,62 +1,34 @@
-# Hi, I'm Ashish Kumar 👋
+# Ashish Kumar
 
-### Software Engineer | Full-Stack Development | Backend & AI
+**Full-Stack Developer | Backend Engineering | Applied AI**
 
-I’m a Computer Science graduate focused on building reliable web applications, strengthening backend engineering fundamentals, and exploring practical AI-powered products.
+Computer Science graduate focused on building practical web applications and strengthening backend engineering skills. Currently expanding into AI-powered application development.
 
-- 🔭 Currently building: **ServeNeedy** — a food redistribution platform concept
-- 🌱 Learning and practicing: **Backend Engineering, Data Structures & Algorithms, Generative AI**
-- 💻 Core stack: **JavaScript, React, Node.js, Express, MongoDB, Python, C++**
-- 🎯 Career focus: **Software Engineer / Backend Developer / AI-enabled Full-Stack Engineer**
-- 📍 Based in India
-- 📫 Reach me: **ashishkumar44521@gmail.com**
+- Building: [ServeNeedy](https://github.com/Aashish0190/ServeNeedy) — a food redistribution platform
+- Exploring: API design, authentication, system design, Generative AI and RAG
+- Working with: JavaScript, React, Node.js, Express, MongoDB, Python and C++
+- Interested in: Software Engineer, Full-Stack and Backend opportunities
 
----
+## Technologies
 
-## Tech Stack
+**Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, MySQL  
+**Programming:** JavaScript, Python, C++  
+**Tools:** Git, GitHub, Postman, VS Code
 
-**Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Selected Projects
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+| Project | Overview |
+| --- | --- |
+| [MERN Estate](https://github.com/Aashish0190/mern_estate) | Full-stack property listing application with authentication, protected routes and listing management. |
+| [ServeNeedy](https://github.com/Aashish0190/ServeNeedy) | Food redistribution platform concept connecting donors, receivers and volunteers. |
+| [DSA in C++](https://github.com/Aashish0190/DSA---CPP) | C++ problem-solving practice, organized by topic. |
 
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Connect
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/ashish-kushwah/) · [GitHub](https://github.com/Aashish0190)
 
 ---
 
-## Featured Work
-
-| Project | What it is | Tech |
-|---|---|---|
-| [ServeNeedy](https://github.com/Aashish0190/ServeNeedy) | Food redistribution platform focused on connecting food donors, receivers and volunteers. Under active development. | MERN |
-| [MERN Estate](https://github.com/Aashish0190/mern_estate) | Real-estate listing application built with the MERN stack. | MongoDB, Express, React, Node.js |
-| [DSA in C++](https://github.com/Aashish0190/DSA---CPP) | A structured practice repository for data structures and algorithm problems. | C++ |
-
----
-
-## Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/ashish-kushwah/)
-- [LeetCode](https://leetcode.com/ashish_kumar28/)
-- [Instagram](https://www.instagram.com/ashishk_official_28/)
-- [GitHub](https://github.com/Aashish0190)
-
----
-
-> I believe in learning by building, improving through feedback, and writing code that solves real problems.
+I value clear problem-solving, maintainable code and learning by building.
